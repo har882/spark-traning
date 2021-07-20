@@ -1,1 +1,1 @@
-# spark-traning
+# spark-training
